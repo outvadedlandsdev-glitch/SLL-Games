@@ -6,5 +6,13 @@
         "icon": "",
         "exe": "ClickerGame.exe",
         "description": "This, is the FIRST EVER Game on this Launcher!"
+    },
+    {
+        "name": "OpenGameLauncher_v2.0.0",
+        "version": "2.0.0",
+        "url": "https://github.com/outvadedlandsdev-glitch/SLL-Games/raw/refs/heads/main/OpenGameLauncher.exe",
+        "icon": "",
+        "exe": "OpenGameLauncher.exe",
+        "description": "The OLDEST Ver of OpenGameLauncher you can use!"
     }
 ]
