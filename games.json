@@ -14,5 +14,13 @@
         "icon": "",
         "exe": "OpenGameLauncher.exe",
         "description": "The OLDEST Ver of OpenGameLauncher you can use!"
+    },
+    {
+        "name": "SantaTracker",
+        "version": "1.0.0",
+        "url": "https://github.com/outvadedlandsdev-glitch/SLL-Games/raw/refs/heads/main/SantaTracker.exe",
+        "icon": "",
+        "exe": "SantaTracker.exe",
+        "description": "Track Santa in real-time and play festive games!"
     }
 ]
